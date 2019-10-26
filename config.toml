@@ -1,0 +1,6 @@
+baseURL = "https://bloomingtonbees.com"
+languageCode = "en-us"
+title = "Bloomington Bees"
+theme = "yinyang"
+[author]
+name = "Lucas Sons"
