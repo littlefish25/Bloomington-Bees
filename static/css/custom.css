@@ -1,0 +1,6 @@
+#header a.logo {
+  background-image: url(/logo.gif);
+}
+#header span {
+  display: none;
+}
