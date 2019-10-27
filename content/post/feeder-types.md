@@ -24,7 +24,8 @@ This photo is from <a href="http://www.beverlybees.com/installing-the-candy-boar
 
 * The last one below is called a double hive top feeder. Basically, it's a device that uses jars as storage for bee feed. it uses metal jar lids that have little holes punched into them so that bees can get the food without drowning. You can use an extra hive box to give this feeder more protection. There's a type of feeder called a quad hive top feeder that's exactly like this one, but uses four jars and is in a perfect square.
 
-{{< figure src="/content/images/2019/05/double-hive-top-feeder.gif" title="This photo is from <a href="https://www.pinterest.com/pin/99642210480469266/">pinterest.com</a>" >}}
+{{< figure src="/content/images/2019/05/double-hive-top-feeder.gif" >}}
+This photo is from <a href="https://www.pinterest.com/pin/99642210480469266/">pinterest.com</a>.
 
 These aren't all of the different feeder types in the world, but I think that this list could give you an idea of what kinds of varieties of feeders there are. I personally like the double hive top feeder, but the choice of which type of feeders to use for your hive(s) is yours.
 
