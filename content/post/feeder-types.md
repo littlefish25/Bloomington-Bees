@@ -14,7 +14,8 @@ Today, I was ordering two of the same type of feeder for my upcoming hives. It w
 
 * The feeder below is called a division board feeder. It's designed to be placed in a hive like a normal frame. It's made out of plastic, the thingy that's sitting on top of the large part of the feeder in the photo is a pair of little plastic ladders that bees would use to keep bees from drowning. This feeder takes up twice the space a normal hive frame takes up. There's another kind of feeder called a pro feeder that's designed exactly like this, but has a wooden top for the ladder thingy to add sturdiness.
 
-{{<figure src="/content/images/2019/05/division-board-feeder.gif" title="This photo is from <a href="http://www.rweaver.com/product_info.php?products_id=75">rweaver.com</a>" >}}
+{{<figure src="/content/images/2019/05/division-board-feeder.gif" >}}
+This photo is from <a href="http://www.rweaver.com/product_info.php?products_id=75">rweaver.com</a>"
 
 * The one below is called a sugar board. it's a board that you put dry bee feed (not liquid bee feed because it'll drown the hive) in and it'll feed the hive during winter. There's a little hole on top so that bees have access to the board from inside the hive.
 
