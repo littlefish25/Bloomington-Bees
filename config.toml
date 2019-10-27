@@ -1,4 +1,4 @@
-baseURL = "http://bloomingtonbees.com"
+baseURL = "/"
 languageCode = "en-us"
 title = "Bloomington Bees"
 theme = "massively"
