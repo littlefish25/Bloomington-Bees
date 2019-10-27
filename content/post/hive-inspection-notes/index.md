@@ -12,7 +12,7 @@ title = "Hive Inspection Notes"
 
 Whenever I finish a hive inspection, I like to take notes on it. I have special sheets that has... pretty much everything you might need to fill out.
 
-{{< figure src="/content/images/2018/08/Dadant-inspection-thumbnail.jpg" >}}
+{{< figure src="Dadant-inspection-thumbnail.jpg" >}}
 
 When it comes to using something like this, you need to know how the most important parts work. The part where it says "Located Queen" is so that you can assure yourself that your hive has a queen. The part where it says "Population" is to let you know whether you need to get more honeybees, split the hive, or not. The part where it says "Disease/Pests" is so that you  know that you have an infestation in your hive and what you need to do.
 
