@@ -1,6 +1,6 @@
 baseURL = "http://bloomingtonbees.com"
 languageCode = "en-us"
 title = "Bloomington Bees"
-theme = "yinyang"
+theme = "massively"
 [author]
 name = "Lucas Sons"
