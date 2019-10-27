@@ -15,11 +15,12 @@ Today, I was ordering two of the same type of feeder for my upcoming hives. It w
 * The feeder below is called a division board feeder. It's designed to be placed in a hive like a normal frame. It's made out of plastic, the thingy that's sitting on top of the large part of the feeder in the photo is a pair of little plastic ladders that bees would use to keep bees from drowning. This feeder takes up twice the space a normal hive frame takes up. There's another kind of feeder called a pro feeder that's designed exactly like this, but has a wooden top for the ladder thingy to add sturdiness.
 
 {{<figure src="/content/images/2019/05/division-board-feeder.gif" >}}
-This photo is from <a href="http://www.rweaver.com/product_info.php?products_id=75">rweaver.com</a>"
+This photo is from <a href="http://www.rweaver.com/product_info.php?products_id=75">rweaver.com</a>.
 
 * The one below is called a sugar board. it's a board that you put dry bee feed (not liquid bee feed because it'll drown the hive) in and it'll feed the hive during winter. There's a little hole on top so that bees have access to the board from inside the hive.
 
-{{< figure src="/content/images/2019/05/sugar-board.gif" title="This photo is from <a href="http://www.beverlybees.com/installing-the-candy-board-for-winter-feeding/">beverlybees.com</a>" >}}
+{{< figure src="/content/images/2019/05/sugar-board.gif" >}}
+This photo is from <a href="http://www.beverlybees.com/installing-the-candy-board-for-winter-feeding/">beverlybees.com</a>.
 
 * The last one below is called a double hive top feeder. Basically, it's a device that uses jars as storage for bee feed. it uses metal jar lids that have little holes punched into them so that bees can get the food without drowning. You can use an extra hive box to give this feeder more protection. There's a type of feeder called a quad hive top feeder that's exactly like this one, but uses four jars and is in a perfect square.
 
