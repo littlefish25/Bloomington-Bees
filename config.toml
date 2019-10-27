@@ -4,3 +4,7 @@ title = "Bloomington Bees"
 theme = "massively"
 [author]
 name = "Lucas Sons"
+
+[languages]
+[languages.en]
+  languageName = "English"
