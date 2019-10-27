@@ -1,6 +1,6 @@
-#header a.logo {
+#header {
   background-image: url(/logo.gif);
 }
-#header span {
+#header a {
   display: none;
 }
