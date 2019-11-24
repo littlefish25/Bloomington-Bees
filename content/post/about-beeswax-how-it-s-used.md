@@ -3,6 +3,7 @@ author = "Lucas Z. Sons"
 categories = []
 date = 2017-10-16T02:01:45Z
 description = ""
+draft = true
 slug = "German-pancakes"
 tags = []
 title = "German Pancakes"
