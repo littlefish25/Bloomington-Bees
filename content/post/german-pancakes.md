@@ -3,6 +3,7 @@ author = "Lucas Z. Sons"
 categories = []
 date = 2019-12-14T17:03:00Z
 description = ""
+draft = true
 slug = "Blueberry-pancakes"
 tags = []
 title = "Blueberry Pancakes"
