@@ -1,42 +1,18 @@
 +++
 author = "Lucas Z. Sons"
 categories = []
-date = 2019-12-14T17:03:00Z
+date = ""
 description = ""
 draft = true
-slug = "Blueberry-pancakes"
+slug = "Worm-factories"
 tags = []
-title = "Blueberry Pancakes"
+title = "Worm Factories"
 
 +++
-This month, I tried out a blueberry pancake recipe from the book "The Complete Cookbook for Young Chefs".  It makes small pancakes that are pretty fluffy and tasty. You can make it have any kind of flavor you want, or have it plain.
+Do you already know what's compost? If not, it's basically food that's been turned into something else for the soul purpose of fertilizing crops. There're many different kinds of compost machines that you can buy. But, there's one that I've always wanted and now have: a worm factory! My grandparents got me one (with my mom's help) for my 17th birthday this month. Me, my mom, and my grandma are all excited about this neat new machine.
 
-### **Ingredients**
+ Worm factories are super cool (in my opinion at least) because you can raise live earthworms at home and harvest their waste to fertilize your plants. You keep your worms in bins full of dirt. Whenever you have leftovers that nobody will eat, you can fed them to your worms and they'll eat it up. As they live in you worm bins, all of their urine will travel down to the bottom of the whole factory and out into a container you've provided for catching it. That worm urine is useful for keeping your potted plants healthy.The worms' feces is also useful compost, you can use it in your outside garden to fertilize your crops.
 
-* 1 cup of all-purpose flour
-* 2 tbsp of sugar
-* ¼ tsp of baking powder
-* ½ tsp of salt
-* ¾ of milk
-* 1 large egg
-* 2 tbsp of veggie oil
-* ¼ tsp of vanilla extract
-* Veggie oil spray
-* ½ cup of blueberries
+There are most likely _bunches_ of websites that has worm factory stuff for you. But, I suggest you try looking at [Uncle Jim's Worm Farm](https://unclejimswormfarm.com). That's where my worm factory came from, and so far it looks good to me. I advise you to do a lot of research on worm factories before starting because there're a lot of foods that aren't good to feed worms. I also suggest you start you first worm factory with red wrigglers because their easy to deal with. I hope that you start a worm collection of your own some day. If you do, then good luck!
 
-### **Instructions**
-
- 1. Mix the dry ingredients together in a bowl using a whisk.
- 2. Mix the wet ingredients together in another bowl.
- 3. Use a spatula to mix the two mixtures together.
- 4. Let the batter sit for 10 minutes.
- 5. Spray medium pan inside using veggie oil spray.
- 6. Heat pan in medium-high for about a minute.
- 7. Use a ¼ cup to scoop the batter onto the heated pan.
- 8. Place blueberries onto cooking batter.
- 9. Flip pancake after 2-3 minutes.
-10. Relocate pancake from pan to plate after 1-2 more minutes
-11. Repeat steps 1-10 until you have the desired number of blueberry pancakes.
-12. Enjoy!
-
-This is how I did it, and it turned out great. You can use butter instead of veggie oil spray if you like. I hope you like them.
+PS, if you do buy worm factory equipment from Uncle Jim's Worm farm, please tell them I said "hi".
