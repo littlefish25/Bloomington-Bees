@@ -1,7 +1,7 @@
 +++
 author = "Lucas Z. Sons"
 categories = []
-date = ""
+date = 2020-02-01T23:38:00Z
 description = ""
 slug = "Worm-factories"
 tags = []
