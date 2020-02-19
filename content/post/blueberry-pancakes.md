@@ -3,7 +3,6 @@ author = "Lucas Z. Sons"
 categories = []
 date = ""
 description = ""
-draft = true
 slug = "Worm-factories"
 tags = []
 title = "Worm Factories"
