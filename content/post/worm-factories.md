@@ -1,18 +1,23 @@
 +++
 author = "Lucas Z. Sons"
 categories = []
-date = 2020-02-19T23:38:00Z
+date = 2020-04-18T22:49:00Z
 description = ""
-draft = true
-slug = "Worm-factories"
+slug = "Pollen-trap"
 tags = []
-title = "Worm Factories"
+title = "Pollen Trap"
 
 +++
-Do you already know what's compost? If not, it's basically food that's been turned into something else for the soul purpose of fertilizing crops. There're many different kinds of compost machines that you can buy. But, there's one that I've always wanted and now have: a worm factory! My grandparents got me one (with my mom's help) for my 17th birthday this month. Me, my mom, and my grandma are all excited about this neat new machine.
+Last month, I got a call from my grandma saying that my great Uncle Al had some beekeeping equipment that he was willing to sell me. Naturally, I took the deal and went to my grandparents' house over the weekend to collect the equipment. When I saw the whole thing, I realized that it was _huge_. There were fifty-three things for me to collect! I won't list them all, but among them was a bottom board with a built-in pollen trap. Below are pics of the bottom board.
 
- Worm factories are super cool (in my opinion at least) because you can raise live earthworms at home and harvest their waste to fertilize your plants. You keep your worms in bins full of dirt. Whenever you have leftovers that nobody will eat, you can fed them to your worms and they'll eat it up. As they live in you worm bins, all of their urine will travel down to the bottom of the whole factory and out into a container you've provided for catching it. That worm urine is useful for keeping your potted plants healthy.The worms' feces is also useful compost, you can use it in your outside garden to fertilize your crops.
+![](/uploads/IMG_20200418_151249423_2.jpg "Top of the bottom board")
 
-There are most likely _bunches_ of websites that has worm factory stuff for you. But, I suggest you try looking at [Uncle Jim's Worm Farm](https://unclejimswormfarm.com). That's where my worm factory came from, and so far it looks good to me. I advise you to do a lot of research on worm factories before starting because there're a lot of foods that aren't good to feed worms. I also suggest you start you first worm factory with red wrigglers because their easy to deal with. I hope that you start a worm collection of your own some day. If you do, then good luck!
+![](/uploads/IMG_20200418_151333230_2.jpg "Bottom of the bottom board without slid-in plank")
 
-PS, if you do buy worm factory equipment from Uncle Jim's Worm farm, please tell them I said "hi".
+![](/uploads/IMG_20200418_151342694_2.jpg "Top of bottom board without slid-in plank")
+
+![](/uploads/IMG_20200418_151354680_HDR_2.jpg "Slid-in plank")
+
+I just did some research on pollen traps and this is what I found. Pollen traps are for trapping pollen (obviously) to collect. There are many models of pollen traps, including the one I mentioned. Beekeepers use pollen traps to collect pollen for making pollen paddies (an alternative meal to sugar syrup) or selling. For this style of pollen trap, there's a wood plank that slides in and out of the trap. When it's covered in pollen, you slide it out, collect the pollen into a container, and slide the plank back in (make sure you've put it back in straight). It's pretty simple when you think about it.
+
+[Here](https://www.honeybeesuite.com/collecting-pollen-from-honey-bees/) is a link to a website that I learned most about pollen traps. You can look at it for more details. I hope that once I get my new hive colony, I'll use this bottom board to keep it extra clean and have some more bee stuff to sell.
